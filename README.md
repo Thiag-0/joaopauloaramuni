@@ -71,7 +71,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 33 anos, moro em BH e sou programador desde os 15 anos de idade. Atualmente sou <code>professor</code> nos cursos de Engenharia de Software e Ciência da Computação da <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b> :wave:, sou o <code>Aramuni</code>, tenho 22 anos, moro em Sabará e sou estudante do  curso de Sistemas de Informações   <a href=[https://www.ifmg.edu.br/sabara](https://www.ifmg.edu.br/sabara)" target="_blank">IFMG Sabará</a>.</i> :man_teacher:<br />
 </div>
 
 -----
